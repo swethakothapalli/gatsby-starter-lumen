@@ -1,7 +1,7 @@
 ---
 title: "About me"
 template: "page"
-socialImage: "/media/image-2.jpg"
+socialImage: "/media/swetha1.jpg"
 ---
 
 Working as data analyst from past 2.5 years . my roles and responsibilities includes collecting, organizing, extrapolating, interpreting, and reporting this data to people who need it to make important decisions . 

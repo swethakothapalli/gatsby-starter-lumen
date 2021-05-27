@@ -6,14 +6,14 @@ draft: false
 slug: "moving-files-from-one-location-to-other"
 category: "Python"
 description: "how to move the files which is of anytype from one location to other."
-socialImage: "/media/files_copying.jpg"
+socialImage: "static/media/files_copying.png"
 ---
 
 **Move files from one location to other using python** Do you know there is a simple library in python where you can move file from one place to other in a matter of seconds. if you don't let me introduce the library to you that is **shutil**
 
 let me tell you how we will use this library in python for moving files
 
-![Files moving](/media/files_copying.jpg)
+![Files moving](static/media/files_copying.png)
 
 ## single file moving from one location to other
 
