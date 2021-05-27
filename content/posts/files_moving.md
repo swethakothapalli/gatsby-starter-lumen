@@ -1,10 +1,12 @@
 ---
-title: Moving files from one location to other using python
+title: "Moving files from one location to other using python"
 date: "2021-05-27T19:27:32.169Z"
 template: "post"
 draft: false
 slug: "moving-files-from-one-location-to-other"
 category: "Python"
+tags:
+"python"
 description: "how to move the files which is of anytype from one location to other."
 socialImage: "static/media/files_copying.png"
 ---
