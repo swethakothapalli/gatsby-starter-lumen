@@ -8,14 +8,14 @@ category: "Python"
 tags:
 - "python"
 description: "how to move the files which is of anytype from one location to other."
-socialImage: "static/media/files_copying.png"
+socialImage: "/media/files_copying.png"
 ---
 
 **Move files from one location to other using python** Do you know there is a simple library in python where you can move file from one place to other in a matter of seconds. if you don't let me introduce the library to you that is **shutil**
 
 let me tell you how we will use this library in python for moving files
 
-![Files moving](static/media/files_copying.png)
+![Files moving](/media/files_copying.png)
 
 ## single file moving from one location to other
 
@@ -41,7 +41,7 @@ Now you have moved the file from one location to other so easily with just a sin
 
 ### multiple files moving from one location to other
 
-+For doing this you need to import shutil .
++ For doing this you need to import shutil .
 + Also you to import xlrd (importing xlrd supposing your file names were there in an excel sheet).
 
 Now let's see how we will move mutlple required files among lots of files in a folder
