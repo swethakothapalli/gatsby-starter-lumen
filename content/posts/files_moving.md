@@ -39,7 +39,7 @@ Now you have moved the file from one location to other so easily with just a sin
 	</blockquote>
 </figure>
 
-### multiple files moving from one location to other
+## Multiple files moving from one location to other
 
 + For doing this you need to import shutil .
 + Also you need to import xlrd (importing xlrd supposing your file names were there in an excel sheet).
