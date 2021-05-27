@@ -4,10 +4,15 @@ template: "page"
 socialImage: "/media/image-2.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+Working as data analyst from past 2.5 years . my roles and responsibilities includes collecting, organizing, extrapolating, interpreting, and reporting this data to people who need it to make important decisions . 
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+![swetha data analyst.](/media/swetha1.jpg)
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+*Having 2.5 years of Overall work experience on Data/Pattern analysis, Prediction Model Building, Visualization, process implementation, excel manipulations with python, building data sets using Python programming.*
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+•	Research, develop, implement new methods of measuring and Analysing data sets and process.
+•	Team player and ability to address multiple priorities in extremely fast – paced environment.
+•	Web Extracting the data from various websites like yahoo, factiva, barchat through selenium, beautifulsoup libraries.
+•	Building the  visualization tool to view models using Django, javascript, html, css.
+•	Worked on manipulating excel files such as reading , writing, copying , comparing, renaming, using python libraries like openxyl, xlrd, pandas, numpy, matplot.
+•	Reformatting the excel sheets by performing various statistical functions using pandas, numpy.
