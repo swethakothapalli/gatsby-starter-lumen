@@ -6,7 +6,7 @@ draft: false
 slug: "moving-files-from-one-location-to-other"
 category: "Python"
 tags:
-"python"
+- "python"
 description: "how to move the files which is of anytype from one location to other."
 socialImage: "static/media/files_copying.png"
 ---
