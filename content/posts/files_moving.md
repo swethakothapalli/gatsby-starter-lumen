@@ -33,7 +33,7 @@ Now you have moved the file from one location to other so easily with just a sin
 
 <figure>
 	<blockquote>
-		<p>Now what if you have to pick hundred's of files among thousands of files to move from one location to other . it will be quite tidious task to do it manually right. don't worry i will show you how to do it with in seconds programatically with this **shutil** library</p>
+		<p>Now what if you have to pick hundred's of files among thousands of files in a folder to move from one location to other . it will be quite tedious task to do it manually right. don't worry i will show you how to do it with in seconds programatically with this **shutil** library</p>
 		<footer>
 		</footer>
 	</blockquote>
@@ -42,7 +42,7 @@ Now you have moved the file from one location to other so easily with just a sin
 ### multiple files moving from one location to other
 
 + For doing this you need to import shutil .
-+ Also you to import xlrd (importing xlrd supposing your file names were there in an excel sheet).
++ Also you need to import xlrd (importing xlrd supposing your file names were there in an excel sheet).
 
 Now let's see how we will move mutlple required files among lots of files in a folder
 
