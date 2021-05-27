@@ -1,10 +1,10 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'swethakothapalli.netlify.app,
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Blog by Swetha',
+  subtitle: 'Data analyst || Data collection || Data cleansing and reformatting since 2.5years',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -25,18 +25,18 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Swetha Kothapalli',
+    photo: '/swetha.jpg',
+    bio: 'working as a data analyst in biofin capital ',
     contacts: {
-      email: '',
-      facebook: '#',
+      email: 'swetha.kothapalli@outlook.com',
+      facebook: 'https://www.facebook.com/swetha.sri.1420354/',
       telegram: '#',
       twitter: '#',
       github: '#',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
+      linkedin: 'https://www.linkedin.com/in/swetha-kothapalli-248594199/',
       instagram: '#',
       line: '',
       gitlab: '',
