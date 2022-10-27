@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://swethakothapalli.netlify.app/',
   pathPrefix: '/',
   title: 'Blog by Swetha',
-  subtitle: 'Data analyst || Data collection || Data cleansing and reformatting || python programmer since 2.5years',
+  subtitle: 'Data analyst || Data collection || Data cleansing and reformatting || python programmer since 4.5years',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'Swetha Kothapalli',
     photo: '/swetha.jpg',
-    bio: 'Working as data analyst from past 2.5 years . my roles and responsibilities includes collecting, organizing, extrapolating, interpreting, and reporting this data to people who need it to make important decisions ',
+    bio: 'Working as data analyst from past 4.5 years . my roles and responsibilities includes collecting, organizing, extracting, interpreting, and reporting this data to people who need it to make important decisions ',
     contacts: {
       email: 'swetha.kothapalli@outlook.com',
       facebook: 'https://www.facebook.com/swetha.sri.1420354/',
