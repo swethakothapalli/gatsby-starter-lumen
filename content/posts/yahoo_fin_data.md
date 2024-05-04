@@ -1,6 +1,6 @@
 ---
 template: post
-title: Exporting Historical yahoo financial data to Csv files
+title: Exporting Historical yahoo financial data to csv files
 slug: scrape-historical-yahoo-financial-data-to-csv
 socialImage: static/media/Yahoo.jpeg
 draft: false
