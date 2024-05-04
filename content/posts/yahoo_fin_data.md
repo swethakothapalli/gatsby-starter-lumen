@@ -15,7 +15,7 @@ Do you know there is a simple library in python where we can download the whole 
 
 let me tell you how we will use this library in python for scracping data
 
-![Files moving](/media/yahoo.jpeg)
+![Web Scrapping Yahoo financial data](/media/yahoo.jpeg)
 
 ## scraping single ticker historical data to a csv file
 
